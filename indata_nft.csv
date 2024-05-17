@@ -1,0 +1,9 @@
+id,contract_address,name,asset_platform_id,number,buy_prc_native,native_currency,buy_prc_usd,buy_date,holding_wallet,collection_size
+bored-ape-yacht-club,0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D,BAYC,ethereum,7757,15,eth,49151.11,3/19/2024,mygacc.eth,9998
+bored-ape-yacht-club,0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D,BAYC,ethereum,8891,16.01,eth,65768.87,3/13/2024,mygacc.eth,9998
+lazy-lions,0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0,LLions,ethereum,8540,0.4016193,eth,547.9,11/2/2022,mygacc.eth,10078
+lazy-lions,0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0,LLions,ethereum,8895,0.4016193,eth,595.8,11/2/2022,mygacc.eth,10078
+mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,MAYC,ethereum,3256,7.20257196,eth,13320.71,8/14/2023,mygacc.eth,19493
+mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,MAYC,ethereum,6123,7.20215478,eth,13327.29,8/13/2023,mygacc.eth,19493
+psychedelics-anonymous-genesis,0x75e95ba5997eb235f40ecf8347cdb11f18ff640b,PA,ethereum,3955,0.168,eth,387.89,12/21/2023,mygacc.eth,9595
+psychedelics-anonymous-genesis,0x75e95ba5997eb235f40ecf8347cdb11f18ff640b,PA,ethereum,4426,1.71927884,eth,2106.46,7/10/2022,mygacc.eth,9595
