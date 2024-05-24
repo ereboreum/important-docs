@@ -1,62 +1,62 @@
 id,contract_address,name,asset_platform_id,number,buy_prc_native,native_currency,buy_prc_usd,buy_date,holding_wallet,collection_size
 apereunion,0x47f3a38990ca12e39255e959f7d97fbe5906afd4,Ape Reunion,ethereum,3233,0.12282755,eth,342.65,5/4/2022,mygacc.eth
 apereunion,0x47f3a38990ca12e39255e959f7d97fbe5906afd4,Ape Reunion,ethereum,8100,0.09685835,eth,270.2,5/4/2022,mygacc.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0483,0.17428096,eth,173.68,8/9/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0508,0.82465322,eth,982.85,12/30/2022,mygacc.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0922,0.19310115,eth,193.32,7/19/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,1482,0.24829053,eth,247.73,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2108,0.39504065,eth,528.22,2/27/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2135,0.24806018,eth,247.46,8/9/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2262,0.13217313,eth,210.28,11/2/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2343,0.23384523,eth,233.36,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2458,0.16701065,eth,284.16,8/16/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2715,0.12620270,eth,172.17,9/20/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2725,0.12745470,eth,173.88,9/20/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2859,0.18027830,eth,319.01,9/11/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2868,0.19996485,eth,353.84,9/11/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2963,0.20336479,eth,203.59,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3163,0.20043321,eth,339.16,8/16/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3305,0.14866653,eth,336.80,12/24/2023,mygacc.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3718,0.34087187,eth,1029.46,4/22/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3865,0.23849715,eth,237.92,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3903,0.20323696,eth,203.47,7/19/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3978,0.52836616,eth,1072.97,1/15/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4281,0.20379174,eth,204.02,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4314,0.46988236,eth,1418.56,4/22/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4653,0.40293669,eth,549.70,11/12/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4730,0.21306678,eth,213.31,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4745,0.28741862,eth,872.85,4/16/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4769,0.17916718,eth,178.55,8/9/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4800,0.28403373,eth,338.52,12/30/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4846,0.58943869,eth,702.51,12/10/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4878,0.40779468,eth,545.27,2/27/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5068,0.25375591,eth,254.37,8/9/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5232,0.58943869,eth,702.51,12/10/2022,mygacc.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5712,0.13727268,eth,243.31,4/6/2023,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5733,0.24459770,eth,244.09,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5734,0.30222006,eth,412.30,11/2/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5949,0.21805784,eth,218.30,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6115,0.22322236,eth,222.76,7/19/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6385,0.17649192,eth,492.35,5/6/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6612,0.17431517,eth,173.72,8/9/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7053,0.20396423,eth,204.19,7/19/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7196,0.22368149,eth,223.92,7/19/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7204,0.19225877,eth,325.33,8/16/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7368,0.22852145,eth,228.04,7/19/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7714,0.22120264,eth,391.42,9/11/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8056,0.82465320,eth,982.85,12/30/2022,mygacc.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8155,0.30392218,eth,922.97,4/17/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8366,0.15323328,eth,302.40,8/13/2022,mohawkaape.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8622,0.22244650,eth,376.41,8/16/2022,aapeq.eth
-apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8872,0.20336031,eth,203.59,7/19/2022,mohawkaape.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,0330,0.08,eth,200,1/1/2022,hsahni.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,0579,0.08,eth,200,1/1/2022,mygacc.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,1702,0.08,eth,200,1/1/2022,mygacc.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,1825,0.08,eth,200,1/1/2022,hsahni.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2032,0.08,eth,200,1/1/2022,mygacc.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2781,0.08,eth,200,1/1/2022,hsahni.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2971,0.08,eth,200,1/1/2022,mygacc.eth
-azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,3196,0.08,eth,200,1/1/2022,hsahni.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0483,0.17428096,eth,173.68,8/9/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0508,0.82465322,eth,982.85,12/30/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,0922,0.19310115,eth,193.32,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,1482,0.24829053,eth,247.73,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2108,0.39504065,eth,528.22,2/27/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2135,0.24806018,eth,247.46,8/9/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2262,0.13217313,eth,210.28,11/2/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2343,0.23384523,eth,233.36,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2458,0.16701065,eth,284.16,8/16/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2715,0.12620270,eth,172.17,9/20/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2725,0.12745470,eth,173.88,9/20/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2859,0.18027830,eth,319.01,9/11/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2868,0.19996485,eth,353.84,9/11/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,2963,0.20336479,eth,203.59,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3163,0.20043321,eth,339.16,8/16/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3305,0.14866653,eth,336.80,12/24/2023,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3718,0.34087187,eth,1029.46,4/22/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3865,0.23849715,eth,237.92,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3903,0.20323696,eth,203.47,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,3978,0.52836616,eth,1072.97,1/15/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4281,0.20379174,eth,204.02,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4314,0.46988236,eth,1418.56,4/22/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4653,0.40293669,eth,549.70,11/12/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4730,0.21306678,eth,213.31,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4745,0.28741862,eth,872.85,4/16/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4769,0.17916718,eth,178.55,8/9/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4800,0.28403373,eth,338.52,12/30/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4846,0.58943869,eth,702.51,12/10/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,4878,0.40779468,eth,545.27,2/27/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5068,0.25375591,eth,254.37,8/9/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5232,0.58943869,eth,702.51,12/10/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5712,0.13727268,eth,243.31,4/6/2023,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5733,0.24459770,eth,244.09,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5734,0.30222006,eth,412.30,11/2/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,5949,0.21805784,eth,218.30,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6115,0.22322236,eth,222.76,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6385,0.17649192,eth,492.35,5/6/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,6612,0.17431517,eth,173.72,8/9/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7053,0.20396423,eth,204.19,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7196,0.22368149,eth,223.92,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7204,0.19225877,eth,325.33,8/16/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7368,0.22852145,eth,228.04,7/19/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,7714,0.22120264,eth,391.42,9/11/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8056,0.82465320,eth,982.85,12/30/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8155,0.30392218,eth,922.97,4/17/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8366,0.15323328,eth,302.40,8/13/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8622,0.22244650,eth,376.41,8/16/2022,bayc8891.eth
+apocalyptic-apes,0xf793A77e32a0E5c0Cd28383E1E04Bbc66EE52438,Apocalyptic Apes,ethereum,8872,0.20336031,eth,203.59,7/19/2022,bayc8891.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,0330,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,0579,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,1702,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,1825,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2032,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2781,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,2971,0.08,eth,200,1/1/2022,spaul.eth
+azuki-apes,0xC14e16261662887954d38e4FA788c7a9e78a54F0,Azuki Apes,ethereum,3196,0.08,eth,200,1/1/2022,spaul.eth
 bff-friendship-bracelets,0x72d47d4d24018ec9048a9b0ae226f1c525b7e794,BFF,ethereum,0,0.0001,eth,0,2/3/2022,spaul.eth,8444
 bff-you,0x3e6046b4d127179f0a421f3148b43cf52c08fc41,You by BFF,ethereum,1748,0.65757761,eth,1985.95,4/22/2022,spaul.eth
 bff-you,0x3e6046b4d127179f0a421f3148b43cf52c08fc41,You by BFF,ethereum,2008,0.07933295,eth,241.48,4/21/2022,spaul.eth
@@ -97,35 +97,31 @@ bit-apes-by-bayc-members,0969265cc3856f4ec039e785bfe91a45728a73d5f695d4895773e21
 bit-apes-by-bayc-members,0969265cc3856f4ec039e785bfe91a45728a73d5f695d4895773e21ea3fdb31fi0,BITAPES,ordinals,18,0.003212232,btc,88.05,5/27/2023,xverse,7746
 bit-apes-by-bayc-members,0969265cc3856f4ec039e785bfe91a45728a73d5f695d4895773e21ea3fdb31fi0,BITAPES,ordinals,19,0.003212232,btc,88.05,5/27/2023,xverse,7746
 bit-apes-by-bayc-members,0969265cc3856f4ec039e785bfe91a45728a73d5f695d4895773e21ea3fdb31fi0,BITAPES,ordinals,20,0.003212232,btc,88.05,5/27/2023,xverse,7746
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2905,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2906,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2907,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2908,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2909,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2910,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2911,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2912,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2913,0.22320493,eth,363.77,2/5/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5306,0.22938326,eth,387.02,2/8/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5319,0.22864177,eth,385.77,2/8/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5582,0.22643215,eth,382.04,2/8/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5583,0.22643215,eth,433.39,2/8/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,6433,0.22861261,eth,381.36,2/8/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8706,0.22461225,eth,359.37,2/10/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8707,0.22461225,eth,359.37,2/10/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8708,0.22461225,eth,359.37,2/10/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8709,0.22461225,eth,359.37,2/10/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8710,0.22461225,eth,359.37,2/10/2023,mygacc.eth
-bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8833,0.22501810,eth,310.00,2/10/2023,mygacc.eth
-bullsandapes-genesis,0x2cf6be9aac1c7630d5a23af88c28275c70eb8819,Bulls and Apes Project - Genesis,ethereum,2655,0.2329731,eth,452.21,5/31/2022,mygacc.eth
-bullsandapes-genesis,0x2cf6be9aac1c7630d5a23af88c28275c70eb8819,Bulls and Apes Project - Genesis,ethereum,3091,0.23432508,eth,446.17,5/31/2022,mygacc.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2905,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2906,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2907,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2908,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2909,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2910,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2911,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2912,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,2913,0.22320493,eth,363.77,2/5/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5306,0.22938326,eth,387.02,2/8/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5319,0.22864177,eth,385.77,2/8/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5582,0.22643215,eth,382.04,2/8/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,5583,0.22643215,eth,433.39,2/8/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,6433,0.22861261,eth,381.36,2/8/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8706,0.22461225,eth,359.37,2/10/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8707,0.22461225,eth,359.37,2/10/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8708,0.22461225,eth,359.37,2/10/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8709,0.22461225,eth,359.37,2/10/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8710,0.22461225,eth,359.37,2/10/2023,spaul.eth
+bullsandapes-apes,0x7f29b85834d6A2ba4BB1c64325686C6057B1B3C5,Bulls and Apes Project - Apes,ethereum,8833,0.22501810,eth,310.00,2/10/2023,spaul.eth
+bullsandapes-genesis,0x2cf6be9aac1c7630d5a23af88c28275c70eb8819,Bulls and Apes Project - Genesis,ethereum,2655,0.2329731,eth,452.21,5/31/2022,spaul.eth
+bullsandapes-genesis,0x2cf6be9aac1c7630d5a23af88c28275c70eb8819,Bulls and Apes Project - Genesis,ethereum,3091,0.23432508,eth,446.17,5/31/2022,spaul.eth
 cakedapesofficial,0xc1922a5abfa18110827c0666b7bbac0389ab7396,Caked Apes Official,ethereum,2506,0.10493176,eth,140.31,2/27/2022,hsahni.eth
 cakedapesofficial,0xc1922a5abfa18110827c0666b7bbac0389ab7396,Caked Apes Official,ethereum,7383,0.41090908,eth,834.45,1/13/2022,hsahni.eth
 cakedapesofficial,0xc1922a5abfa18110827c0666b7bbac0389ab7396,Caked Apes Official,ethereum,7479,0.10226985,eth,136.75,2/27/2022,hsahni.eth
-grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,1576,0.24700037,eth,630.56,2/3/2022,mygacc.eth
-grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,3120,0.24294656,eth,620.21,2/3/2022,mygacc.eth
-grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,4177,0.23495231,eth,803.23,1/13/2022,mygacc.eth
-grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,4674,0.25289456,eth,645.61,2/3/2022,mygacc.eth
 hakinft-io,0x7887f40763ace5f0e8320181fd5b42776d35b1ff,HAKI NFT,ethereum,2196,0.11491824,eth,348.99,4/16/2022,hsahni.eth
 liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGENDS,ethereum,291,0.08208612,eth,109.50,4/14/2022,hsahni.eth
 liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGENDS,ethereum,540,0.03058029,eth,40.79,4/14/2022,hsahni.eth
@@ -141,78 +137,74 @@ liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGEN
 liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGENDS,ethereum,790,0.08114658,eth,108.24,4/14/2022,hsahni.eth
 liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGENDS,ethereum,791,0.08183899,eth,109.17,4/14/2022,hsahni.eth
 liquid-legions,0x8bafFA321aF7f04A26D0c611aBEa1572C685C52F,Liquid Legions - LEGENDS,ethereum,1832,0.00100000,eth,0.0,7/9/2022,hsahni.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0031,0.18804492,eth,338.75,6/18/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0077,0.10270262,eth,125.83,6/21/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0106,0.17486825,eth,315.01,6/18/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0446,0.24432227,eth,543.37,6/18/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0459,0.25003962,eth,417.27,6/18/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0865,0.44300631,eth,539.71,7/12/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,1237,0.12305322,eth,183.69,6/20/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,2912,0.10360735,eth,126.94,6/21/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,2913,0.2045331,eth,250.59,6/20/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,4671,0.2127467,eth,260.66,6/20/2022,mygacc.eth
-mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,4806,0.13249909,eth,162.34,6/20/2022,mygacc.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,45600,2.05181579,eth,3197.65,9/3/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,52922,4.38708782,eth,12324.5,5/4/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,55996,1.93185831,eth,2543.09,11/25/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,56640,2.75222926,eth,2755.32,7/18/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,67427,1.93185831,eth,2427.81,11/25/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,68306,1.94376646,eth,2657.04,11/16/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,70517,4.80355176,eth,12477.94,5/8/2022,oldledger.eth
-otherdeed,0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258,Otherdeed for Otherside,ethereum,93587,3.00366363,eth,3187.18,7/18/2022,oldledger.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0227,0.06396766,eth,101.87,9/7/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0229,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0230,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0231,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0232,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0233,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0234,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0235,0.06229459,eth,187.09,4/22/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0275,0.06903131,eth,108.24,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0492,0.15119095,eth,206.26,10/1/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0569,0.11811453,eth,161.14,11/10/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0688,0.09545578,eth,95.13,8/9/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0833,0.05275610,eth,82.72,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1372,0.04190585,eth,74.15,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1424,0.06203989,eth,97.28,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1437,0.08062701,eth,126.42,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1618,0.07204050,eth,112.96,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1930,0.06354606,eth,63.33,8/9/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,2409,0.05143589,eth,87.04,8/14/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,2720,0.12360492,eth,209.16,8/16/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3060,0.07145970,eth,108.36,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3093,0.08578989,eth,132.25,9/5/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3249,0.07790395,eth,137.85,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3308,0.11714302,eth,351.82,4/26/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3546,0.11614750,eth,348.83,4/26/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3631,0.11606842,eth,348.60,4/26/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4069,0.05053613,eth,79.24,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4187,0.04165592,eth,73.71,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4228,0.11811453,eth,161.14,11/10/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4945,0.11705218,eth,367.71,4/26/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5297,0.06128422,eth,96.09,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5490,0.06791821,eth,112.80,9/7/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5594,0.22278600,eth,394.22,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5639,0.05590175,eth,98.92,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5927,0.00010000,eth,0.01,12/10/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5993,0.09113682,eth,124.33,10/1/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6518,0.15397220,eth,272.46,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6522,0.04116698,eth,72.85,9/11/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6523,0.07105316,eth,96.93,10/1/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7118,0.05774265,eth,90.54,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7126,5.00419106,eth,5626.69,7/14/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7176,0.11811453,eth,161.14,11/10/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7182,0.02692225,eth,36.73,10/27/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7637,0.06933415,eth,69.10,8/9/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7749,0.00010000,eth,0.01,11/2/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8092,0.05222282,eth,81.88,9/3/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8119,0.11811453,eth,161.14,11/10/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8283,0.04169039,eth,56.88,9/20/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8428,0.07572183,eth,75.46,8/9/2022,aapeq.eth
-queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8570,0.07146279,eth,110.79,9/3/2022,aapeq.eth
-sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0661,0.05009554,eth,61.38,7/11/2022,mygacc.eth
-sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0662,0.05009554,eth,61.38,7/11/2022,mygacc.eth
-sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0663,0.05009554,eth,61.38,7/11/2022,mygacc.eth
+grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,1576,0.24700037,eth,630.56,2/3/2022,spaul.eth
+grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,3120,0.24294656,eth,620.21,2/3/2022,spaul.eth
+grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,4177,0.23495231,eth,803.23,1/13/2022,spaul.eth
+grandpaapecountryclub,0x4B103d07C18798365946E76845EDC6b565779402,Grandpa Ape Country Club,ethereum,4674,0.25289456,eth,645.61,2/3/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0031,0.18804492,eth,338.75,6/18/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0077,0.10270262,eth,125.83,6/21/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0106,0.17486825,eth,315.01,6/18/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0446,0.24432227,eth,543.37,6/18/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0459,0.25003962,eth,417.27,6/18/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,0865,0.44300631,eth,539.71,7/12/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,1237,0.12305322,eth,183.69,6/20/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,2912,0.10360735,eth,126.94,6/21/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,2913,0.2045331,eth,250.59,6/20/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,4671,0.2127467,eth,260.66,6/20/2022,spaul.eth
+mutantgrandpacountryclub,0xad0db7368cdfbd3153f7dfaca51a78eeb39f6d71,Mutant Grandpa Country Club,ethereum,4806,0.13249909,eth,162.34,6/20/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0227,0.06396766,eth,101.87,9/7/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0229,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0230,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0231,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0232,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0233,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0234,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0235,0.06229459,eth,187.09,4/22/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0275,0.06903131,eth,108.24,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0492,0.15119095,eth,206.26,10/1/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0569,0.11811453,eth,161.14,11/10/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0688,0.09545578,eth,95.13,8/9/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,0833,0.05275610,eth,82.72,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1372,0.04190585,eth,74.15,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1424,0.06203989,eth,97.28,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1437,0.08062701,eth,126.42,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1618,0.07204050,eth,112.96,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,1930,0.06354606,eth,63.33,8/9/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,2409,0.05143589,eth,87.04,8/14/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,2720,0.12360492,eth,209.16,8/16/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3060,0.07145970,eth,108.36,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3093,0.08578989,eth,132.25,9/5/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3249,0.07790395,eth,137.85,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3308,0.11714302,eth,351.82,4/26/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3546,0.11614750,eth,348.83,4/26/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,3631,0.11606842,eth,348.60,4/26/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4069,0.05053613,eth,79.24,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4187,0.04165592,eth,73.71,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4228,0.11811453,eth,161.14,11/10/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,4945,0.11705218,eth,367.71,4/26/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5297,0.06128422,eth,96.09,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5490,0.06791821,eth,112.80,9/7/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5594,0.22278600,eth,394.22,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5639,0.05590175,eth,98.92,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5927,0.00010000,eth,0.01,12/10/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,5993,0.09113682,eth,124.33,10/1/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6518,0.15397220,eth,272.46,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6522,0.04116698,eth,72.85,9/11/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,6523,0.07105316,eth,96.93,10/1/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7118,0.05774265,eth,90.54,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7126,5.00419106,eth,5626.69,7/14/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7176,0.11811453,eth,161.14,11/10/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7182,0.02692225,eth,36.73,10/27/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7637,0.06933415,eth,69.10,8/9/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,7749,0.00010000,eth,0.01,11/2/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8092,0.05222282,eth,81.88,9/3/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8119,0.11811453,eth,161.14,11/10/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8283,0.04169039,eth,56.88,9/20/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8428,0.07572183,eth,75.46,8/9/2022,spaul.eth
+queenapes,0x1417404D0d92f9D21B046AFbaa9D1C4E17c4c723,Apocalyptic Queens,ethereum,8570,0.07146279,eth,110.79,9/3/2022,spaul.eth
+sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0661,0.05009554,eth,61.38,7/11/2022,spaul.eth
+sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0662,0.05009554,eth,61.38,7/11/2022,spaul.eth
+sammypixelated,0x8390b5D7e3Be0b166d97f49E3faC40A7548DfC33,PIXELATED (Digital Feelings),ethereum,0663,0.05009554,eth,61.38,7/11/2022,spaul.eth
 stickmentoys,0x2A459947f0ac25eC28C197f09C2d88058a83f3Bb,Stickmen Toys,ethereum,1128,0.0436,eth,56.96,12/23/2022,hsahni.eth
 stickmentoys,0x2A459947f0ac25eC28C197f09C2d88058a83f3Bb,Stickmen Toys,ethereum,1373,0.0436,eth,56.96,12/23/2022,hsahni.eth
 stickmentoys,0x2A459947f0ac25eC28C197f09C2d88058a83f3Bb,Stickmen Toys,ethereum,3482,0.0436,eth,56.96,12/23/2022,hsahni.eth
