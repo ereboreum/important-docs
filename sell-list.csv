@@ -8,7 +8,7 @@ AXGT,2000000,0.001432224,20240202,1,5,7,10,newledger.eth,axondao-governance-toke
 BLOK,1000000,0.0022,20230512,3,5,7,10,trust,bloktopia
 CGPT,23700,0.126582278,20231219,4,5,7,10,mygacc.bnb,chaingpt
 CQT,20000,0.1775,20231218,6,5,7,10,newledger.eth,covalent
-CRE,8500000,0.0004345,20240426,8,5,7,10,newledger.eth,creso-2
+CRE,66800000,0.0004345,20240705,8,5,7,10,newledger.eth,creso-2
 CRYO,800,1.14,20231213,2,5,7,10,newledger.eth,cryodao
 CSIX,200000,0.06,20240506,4,5,7,10,mygacc.bnb,carbon-browser
 DBC,822134,0.0065,20240310,4,5,7,10,dbcwallet.io,deepbrain-chain
@@ -22,13 +22,13 @@ GFAL,100000,0.0108917,20230603,3,5,7,10,mygacc.bnb,games-for-a-living
 HBAR,100000,0.0632206,20230418,7,5,7,10,exodus,hedera-hashgraph
 KAI,124000,0.02,20201223,7,10,12,15,kardiachain,kardiachain
 KAS,31720,0.127996166,20231214,7,5,7,10,kaspa,kaspa
-LAKE,313023,0.015193618,20231213,2,5,7,10,newledger.eth,data-lake
+LAKE,500000,0.015193618,20240705,2,5,7,10,newledger.eth,data-lake
 LCX,50000,0.07,20231217,5,50,75,100,newledger.eth,lcx
 MYRIA,500000,0.00237912,20230603,3,5,7,10,ereboreum.eth,myria
-NOBL,200293,0.05,20240626,2,5,7,10,newledger.eth,nobleblocks
+NOBL,275000,0.05,20240705,2,5,7,10,newledger.eth,nobleblocks
 NXRA,50210,0.127479387,20240127,5,7,10,5,newledger.eth,allianceblock-nexera
 QANX,100000,0.09,20240404,4,5,7,10,newledger.eth,qanplatform
-QNT,100,90,20240628,6,10,12,15,exodus,quant-network
+QNT,120,90,20240705,6,10,12,15,exodus,quant-network
 RIO,5090,0.589744597,20231219,5,7,10,5,pero-algo,realio-network
 RISE,20000000,0.00015,20230314,6,8,10,12,oldledger.bnb,everrise
 SEI,10000,0.1212,20230913,7,5,7,10,compass,sei-network
