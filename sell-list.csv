@@ -32,7 +32,7 @@ QANX,100000,0.09,20240404,4,5,7,10,newledger.eth,qanplatform
 QNT,170,90,20240817,6,10,12,15,exodus,quant-network
 RIO,5090,0.589744597,20231219,5,7,10,5,pero-algo,realio-network
 RISE,20000000,0.00015,20230314,6,8,10,12,oldledger.bnb,everrise
-SEI,15000,0.28,20240706,7,5,7,10,compass,sei-network
+SEI,20000,0.28,20240817,7,5,7,10,compass,sei-network
 SIDUS,1000000,0.00148113,20230512,3,5,7,10,trust,sidus
 SUI,10400,0.66,20240706,7,5,7,10,sui,sui
 TRAVA,1014650,0.000985857,20231216,4,5,7,10,mygacc.bnb,trava-finance
